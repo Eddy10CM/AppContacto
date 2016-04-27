@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestFacebook</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">1001675066583222</string>
+    
+    <string name="btn_logout_from_google">Logout from google</string>
+    <string name="btn_revoke_access">Revoke access</string>
+
+    <string name="TWITTER_KEY">FjmyHBKStmqwU2SW1xa0ImsAj</string>
+    <string name="TWITTER_SECRET">xvtJSd32LrgE9QGRhRPUG1b8YAEvPcs9i31k7lVol5u5tIaaxN </string>
+</resources>
